@@ -1,0 +1,9 @@
+package-lock.json
+node_modules
+dist
+coverage
+playwright-report
+test-results
+benchmarks/results
+docs/images
+.vitest
